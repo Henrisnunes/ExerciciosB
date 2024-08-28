@@ -1,0 +1,2 @@
+// 1 No código do Exemplo 1 (página 5), explique a diferença entre o resultado das linhas 21 e 23. Também explique o que aconteceria se a instrução da linha 23 fosse substituída por  cout << nome << endl;
+// Na linha 21 saira o nome que a pessoa tenha digitado sem nenhuma alteraçao porem na 23 saira com as iniciais maisculas pois na 22 a variavel ira passar  pelo modulo antes para que ent na 23 esteja diferente 
